@@ -1,3 +1,12 @@
+## Rental WebApp
+This was a webapp made for people to be able to look at items in their area and to be able to rent them.
+
+## What I Learned
+This was my first time ever using the ReactJS Library for frontend and it was a big learning curve for me. Furthermore I learned a lot about front-end and back-end web development and the entire software development lifecycle.
+
+
+
+________________________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
