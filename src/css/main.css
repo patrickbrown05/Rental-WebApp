@@ -1,0 +1,92 @@
+#myModal {
+  width: 50%;
+  border-radius: 10px;
+  background-color: white;
+}
+
+/* .modal-content {
+  background-color: white;
+  border-radius: 10px;
+  padding-bottom: 0px;
+  /* border: solid; */
+*/
+  /* Modal Content/Box */
+  .modal-content {
+  /* background-color: white; */
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+.card-title {
+  color: teal;
+}
+
+.strokeme {
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+form {
+  display: block;
+}
+
+#inputArea {
+  border-style: solid;
+  width: 45%;
+  float: left;
+}
+
+#outputArea {
+  border-style: solid;
+  width: 45%;
+  float: right;
+}
+
+#output div {
+  float: left;
+  margin-left: 10px;
+  padding: 0 10px 0 5px;
+  border-style: solid;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#Checkout-link {
+  color: #f4f4f4;
+  text-decoration: none;
+  position: static;
+  padding-top: 7px;
+}
+
+#Checkout-link:hover {
+  color: #f4f4f4;
+}

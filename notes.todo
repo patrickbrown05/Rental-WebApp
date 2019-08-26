@@ -1,0 +1,8 @@
+Required dependency to download
+npm install pg
+npm install express
+npm install pg-native
+npm install --global --production windows-build-tools
+visual studio c++
+postgresql for windows >> point environment variable to bin folder
+npm install --save react@16.4.0 react-dom@16.4.0
